@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/monikakumari/Desktop/BLACKHOLE/DSA series/dsa_basics /output/Fibonacci'
+relocations:     []
+...
